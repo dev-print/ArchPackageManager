@@ -25,6 +25,9 @@ After installation, you can run the application by executing the following comma
 simple-arch-app
 ```
 
+# Bugs % Suggestions
+If you got had/got any Bugs or Suggestions, go to the Expected tab (eg: Issues)
+
 ## Contributing
 
 If you would like to contribute to this project, please feel free to submit a pull request or open an issue.
