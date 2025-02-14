@@ -22,7 +22,7 @@ To install ArchPackageManager, use the provided `PKGBUILD` file. Follow these st
 
 After installation, you can run the application by executing the following command in your terminal:
 ```
-simple-arch-app
+archpackagemanager
 ```
 
 # Bugs % Suggestions
