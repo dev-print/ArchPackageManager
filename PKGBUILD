@@ -1,12 +1,12 @@
 pkgname=archpackagemanager
-pkgver=1.1
+pkgver=1.2
 pkgrel=1
 pkgdesc="A simple Arch Linux package manager with a GUI"
 arch=('any')
 url="https://github.com/dev-print/ArchPackageManager"
 license=('MIT')
 depends=('python' 'python-pyqt5')
-source=("https://github.com/dev-print/ArchPackageManager/archive/refs/tags/1.1.tar.gz")
+source=("https://github.com/dev-print/ArchPackageManager/archive/refs/tags/1.2.tar.gz")
 sha256sums=('SKIP')
 
 package() {
