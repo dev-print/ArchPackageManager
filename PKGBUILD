@@ -16,5 +16,5 @@ package() {
     install -Dm644 README.md "$pkgdir/usr/share/doc/archpackagemanager/README.md"
     install -Dm644 PRIVACY_POLICY.md "$pkgdir/usr/share/doc/archpackagemanager/PRIVACY_POLICY.md"
     install -Dm644 archpackagemanager.desktop "$pkgdir/usr/share/applications/archpackagemanager.desktop"
-    install -Dm644 icons/archpackagemanager.png "$pkgdir/usr/share/pixmaps/archpackagemanager.png"
+    install -Dm644 icon/archpackagemanager.png "$pkgdir/usr/share/pixmaps/archpackagemanager.png"
 }
