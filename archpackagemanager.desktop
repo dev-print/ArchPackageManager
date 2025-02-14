@@ -2,7 +2,6 @@
 Name=ArchPackageManager
 Comment=A simple Arch Linux package manager with a GUI
 Exec=/usr/bin/archpackagemanager
-Icon=archpackagemanager
 Terminal=false
 Type=Application
 Categories=Utility;
